@@ -1,0 +1,42 @@
+main {
+    max-width: 40rem;
+  }
+  
+  form {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    background-color: rgb(216, 190, 133);
+    text-align: left;
+  }
+  
+  .form-control {
+    margin-bottom: 0.75rem;
+  }
+  
+  label,
+  input,
+  textarea {
+    display: block;
+    width: 100%;
+  }
+  
+  label {
+    color: rgb(80, 57, 7);
+    margin-bottom: 0.25rem;
+  }
+  
+  input,
+  textarea {
+    font: inherit;
+    padding: 0.25rem;
+    border-radius: 4px;
+    background-color: rgb(252, 248, 239);
+    border: 1px solid rgb(121, 85, 7);
+    color: rgb(121, 85, 7);
+    box-sizing: border-box;
+  }
+  
+  input:focus,
+  textarea:focus {
+    background-color: rgb(252, 234, 197);
+  }
