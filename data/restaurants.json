@@ -1,1 +1,23 @@
-[{"name":"Ciabata","address":"12 Somewhere Ave","cuisine":"Portugese","website":"https://www.google.com","description":"Good ribs"}]
+[
+    {
+        "name": "Ciabata",
+        "address": "12 Somewhere Ave",
+        "cuisine": "Portugese",
+        "website": "https://www.google.com",
+        "description": "Good ribs"
+      },
+      {
+        "name": "Testing",
+        "address": "12 Testing Ave",
+        "cuisine": "Mexican",
+        "website": "https://www.google.com",
+        "description": "test"
+      },
+      {
+        "name": "Testing2",
+        "address": "12 Testing Ave",
+        "cuisine": "Mexican",
+        "website": "https://www.google.com",
+        "description": "testing"
+      }
+]
