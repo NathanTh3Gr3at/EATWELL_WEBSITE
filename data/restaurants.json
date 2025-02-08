@@ -1,5 +1,6 @@
 [
     {
+        "id":"r1",
         "name": "Ciabata",
         "address": "12 Somewhere Ave",
         "cuisine": "Portugese",
@@ -7,6 +8,7 @@
         "description": "Good ribs"
       },
       {
+        "id":"r2",
         "name": "Testing",
         "address": "12 Testing Ave",
         "cuisine": "Mexican",
@@ -14,6 +16,7 @@
         "description": "test"
       },
       {
+        "id":"r3",
         "name": "Testing2",
         "address": "12 Testing Ave",
         "cuisine": "Mexican",
