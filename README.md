@@ -1,5 +1,1 @@
-# Eatwell Website
 
-## Details
-
-## Screenshots
